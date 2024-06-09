@@ -1,5 +1,7 @@
 # spring-6-reactive-examples
 
+TEST
+
 This repository contains code examples for my course Spring Framework 6: Beginner to Guru.
 
 ## Spring Framework 6: Beginner to Guru Course Wiki
